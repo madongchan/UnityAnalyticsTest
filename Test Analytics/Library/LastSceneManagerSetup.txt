@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Samples/Analytics/5.1.0/Standard Events/Analytics Sample.unity
+- path: Assets/MyProject/MyAnalyticsTestScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
